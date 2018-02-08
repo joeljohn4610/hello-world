@@ -1,5 +1,6 @@
 # hello-world
-Store ideas, resources, and ideas.
+About Me
+Store ideas and resources.
 
 My name is Joel Johnson, some people call me "JJ".  I am a AEC (Architectural, Engineering, Construction) consultant.
 I am on a journey learning python for big data analysis & visualization, but with a first specific step of being the python
